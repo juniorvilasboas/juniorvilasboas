@@ -1,9 +1,8 @@
 ### Olá, eu sou o Moacyr Santana! 👋
 
+- 🌱 Estudando Outsystems
 - 🌱 Estudando JavaScript
 - 🌱 Estudando ReactJs
-- 🌱 Estudando React-Native
-- 🌱 Estudando NodeJs
 
 ##
 
